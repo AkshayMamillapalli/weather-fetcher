@@ -117,7 +117,5 @@ The required **1–2 minute walkthrough video** demonstrates:
 3. Viewing the fetched temperature, humidity, wind speed, and weather description.
 4. Testing an invalid location and showing the friendly error.
 
-### Embed the video here
-
 
 <video src="./demo.mp4" controls width="800"></video>
