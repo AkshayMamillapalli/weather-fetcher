@@ -102,9 +102,9 @@ If the weather service cannot be reached, the application catches the connection
 
 The application uses the public `wttr.in` endpoint:
 
-
+```text
 https://wttr.in/{city}?format=j1
-
+```
 
 No API key is required.
 
